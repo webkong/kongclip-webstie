@@ -21,7 +21,7 @@ It is built for people who copy and paste constantly and want a calmer workflow:
 ## Download
 
 - Website: [https://clip.webkong.top](https://clip.webkong.top)
-- Recommended PKG: [Download KongClip for macOS](https://github.com/webkong/kongclip-webstie/releases/latest/download/KongClip-1.0.8-Installer.pkg)
+- Recommended PKG: [Download KongClip for macOS](https://github.com/webkong/kongclip-webstie/releases/latest/download/KongClip-1.0.9-Installer.pkg)
 
 ## Notes
 
